@@ -8,6 +8,7 @@ D'un niveau supérieur, l'attaque DDOS est comme un embouteillage inattendu bloq
 
 ## REMARQUE (Veuillez vous assurer que vous avez installé python 3 )
 
+![Cover](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/123772441_1636970333140351_8597461386596942541_n.png?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=MoHRnlgYFuwAX-Rtmtz&_nc_ht=scontent-cdg2-1.xx&oh=00_AT_4bMQWVjRcwnt4JrUGc4RVTk1ADk7FbqaeQyaO51XA_w&oe=637461FE)
 
 ## Pour Termux
 
