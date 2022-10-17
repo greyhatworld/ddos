@@ -6,6 +6,10 @@ Un serveur d'attaque par déni de service distribuable (DDOS) qui coupe les cibl
 Les attaques DDoS sont efficaces en utilisant plusieurs systèmes informatiques compromis comme source de trafic d'attaque. Les moteurs de recherche peuvent inclure des ordinateurs et d'autres ressources réseau telles que des appareils IoT.
 D'un niveau supérieur, l'attaque DDOS est comme un embouteillage inattendu bloqué sur une autoroute, empêchant le trafic régulier d'atteindre sa destination.
 
+## REMARQUE (Veuillez vous assurer que vous avez installé python 3 )
+
+(https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
+
 ## Pour Termux
 
 Pour utiliser le DRipper, tapez les commandes suivantes dans Termux :
